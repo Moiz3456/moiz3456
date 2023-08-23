@@ -13,3 +13,4 @@ Programming Languages: Python, SQL
 IDE's: Jupyter Notebook, Google Colab
 Databases: MySQL, PostgreSQL
 Git, GitHub
+HTML
