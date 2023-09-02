@@ -7,4 +7,9 @@ I BELIEVE COMPUTER VISION CAN SOLVE MANY PROBLEMS
 - 👯 I’m trying to solve the probelms for autonomous vehicles using computer vision algorithms.
   Details will be uploaded soon.
 
-
+Skills:
+  Data Analysis
+  -SQL
+  -Power BI
+  -Excel
+  -Spreadsheets
