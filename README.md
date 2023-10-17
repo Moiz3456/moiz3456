@@ -4,9 +4,9 @@ Hi there👋
 
 I BELIEVE COMPUTER VISION CAN SOLVE MANY PROBLEMS
 
-- 🌱 I’m currently learning machine learning and deep learning algorithms.
-- 👯 I’m trying to solve the probelms for autonomous vehicles using computer vision algorithms.
-  Details will be uploaded soon.
+-    Understanding the world of Data.
+- 🌱 I’m currently learning machine learning and deep learning concepts.
+- 👯 I’m trying to understand and solve the probelms for autonomous vehicles using computer vision algorithms.
 
 ### Skills:
 #### Data Analysis
@@ -19,5 +19,6 @@ I BELIEVE COMPUTER VISION CAN SOLVE MANY PROBLEMS
 #### Python
   * Numpy
   * Pandas
+  * TensorFlow
 
 
